@@ -2,6 +2,8 @@
 
 Personal World of Warcraft profile exports and addon configurations for easy backup and restoration across installations.
 
+![WoWScrnShot_012426_231512](https://github.com/user-attachments/assets/f33a2cb8-97b5-4115-84e1-d13dadd32df2)
+
 ## Purpose
 
 This repository stores my personal WoW addon profiles, settings exports, and custom media configurations. It serves as a backup and version control system for quickly setting up new WoW installations or restoring configurations.
